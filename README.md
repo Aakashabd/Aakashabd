@@ -1,17 +1,23 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi, I'm Aakash
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building cool stuff, learning new technologies, and collaborating on open-source projects.
+I'm a passionate Automation Test Engineer who enjoys building robust and scalable test frameworks. I specialize in Selenium-based automation and have hands-on experience with Java. My GitHub showcases a collection of personal and collaborative projects focused on testing, automation, and continuous improvement.
 
-## 🚀 About Me
-- 🔭 I’m currently working on: [Your current project or interest]
-- 🌱 I’m currently learning: [Tech you're learning]
-- 💬 Ask me about: [Topics you're comfortable discussing]
-- 📫 How to reach me: [Your email or social media]
-- ⚡ Fun fact: [Something quirky or interesting about you]
+## 🚀 Featured Projects
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Pythonadge/-JavaScript-333333?stylebadge/-VS%20Code-333333?styleb-readme-stats.vercel.app/api?username=yourtion
-- 📊 Another Project: Short description
+- 🔍 Health Index Calculator  
+  A utility to calculate health indices based on input parameters, built with automation in mind.
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-o/badge/-Twitter-1DA1F2?style=flat&logo=twitter
+- 🧪 Selenium Automation Framework  
+  A modular and reusable Selenium framework designed for efficient test execution and reporting.
+
+- 📊 [Test Report Generator 
+  A tool to generate clean and customizable test reports from automation results.
+
+Explore more in the Repositories tab!
+
+## 📫 Connect with Me
+- 🌐 Portfolio Website *(replace with your actual site if available)*
+- 💼 LinkedIn *(replace with your LinkedIn URL)*
+- 📧 Email: aakashathlete01@gmail.com
+  
+Thanks for visiting my profile! 😊
